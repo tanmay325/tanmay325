@@ -60,18 +60,6 @@ _Sep 2022 – Oct 2022_
 
 ---
 
-## 🚀 Projects
-
-**EC2-Hosted Web Application**
-- Developed and deployed a Django-based web application hosted on AWS EC2.
-- Configured server environment, managed dependencies, and ensured public access via security rules.
-
-**CI/CD Pipeline Automation using Jenkins**
-- Automated a complete CI/CD pipeline for a Java-based application using Jenkins.
-- Integrated source control, automated build, testing, artifact management, and deployment.
-
----
-
 ## 🌐 Languages
 
 - English  
