@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**tanmay325/tanmay325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tanmay Bhujbal
+## Web Developer | Python Enthusiast
+### About Me
+- Passionate about web development.
+- Experienced with Python, JavaScript, React.
 
-Here are some ideas to get you started:
+### Projects
+- [Project 1](link-to-project)  
+- [Project 2](link-to-project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Python, JavaScript, HTML, CSS, React
+
+### Contact
+- [LinkedIn](your-linkedin-url)
+- Email: your-email@example.com
